@@ -323,3 +323,101 @@
 * **북미권 고등학교 문화 2**
     1.  듣고 싶은 과목을 직접 수강 신청
     2.  복도에 개인 라커가 있음 (소속된 교실 없음)
+
+
+### 6주차
+
+---
+
+**표현 정리**
+
+1.  **ask me out.**
+    * 나에게 데이트를 신청했어
+    * `ask out`: 데이트를 신청하다.
+    * **동의어**:
+        * `have a crush on`: ~에게 반하다
+        * `go out`, `date`, `hang out`: 데이트하다, 만나다
+        * `flirt`, `hit on`: 꼬시다, 추파를 던지다
+    * **반의어**:
+        * `have an affair`, `cheat on`: 바람 피다
+        * `dump`: (애인을) 차다
+        * `break up`: 헤어지다
+
+2.  **start sniffing around**
+    * 수상하게 굴다
+    * `sniff`: 킁킁거리며 냄새를 맡다
+
+3.  **Stay out of my way**
+    * 내 앞길 방해하지 마
+
+4.  **do they validate parking here?**
+    * 주차도장 찍어줘요? / 주차 확인해줘요?
+    * `validate`: 승인하다, 유효함을 입증하다
+
+5.  **Triple caps, easy foam.**
+    * 샷 3개 넣은 카푸치노, 거품은 적게
+    * `caps`: 카푸치노 (줄임말)
+
+6.  **at least I can do.**
+    * 이 정도는 내가 해줄 수 있지
+    * `at least`: 최소한
+
+7.  **his food stinks.**
+    * 그의 음식은 구리다.
+    * `stinks`: 꾸리꾸리한 냄새가 나다, 형편없다
+
+8.  **It's a requirement.**
+    * 필수 과목이다.
+
+9.  **you're manipulating the situation**
+    * 엄마가 상황을 조작하고 있잖아
+
+10. **she's too afraid of hurting your feelings.**
+    * (그녀는) 엄마 마음 상할까봐 너무 두려워한다.
+
+11. **Rory knocks herself out all week at Chilton.**
+    * 로리는 주중에 칠튼에서 녹초가 된다.
+    * `knock oneself out`: 녹초가 되다, 몹시 지치다
+
+12. **Don't stop me when I'm on a roll.**
+    * 나 흐름 탔을 때 말리지 마.
+    * `on a roll`: 잘나가는, 승승장구하는
+
+13. **My Advil is wearing off. Their father spoiled them.**
+    * 애드빌 약효가 떨어지고 있어. 아빠가 애들 버릇을 망쳤어.
+    * `Advil`: (상표명) 두통약
+    * `wear off`: (효과 등이) 점차 사라지다
+    * `spoil`: 버릇을 망치다
+
+14. **somebody got stood up at the prom.**
+    * 너 프롬에서 바람맞은 적 있구나.
+    * `prom`: 고교 졸업 파티
+    * `get stood up`: 바람맞다
+
+15. **Do you have sunscreen?**
+    * 선크림 챙겼어?
+    * `screen`: 걸러내다
+    * **동의어**: `sunblock`
+
+---
+
+**문화 및 기타 단어**
+
+* **북미권 집 문화**
+    1.  **house (주택)**: 마당, 2층집, 차고 구성. 교외에 많고 주로 목조 건물. 문이 삐걱거리거나 흰개미 문제 발생 가능. 잔디 관리가 필요하며 관리자가 없음.
+    2.  **town house (빌라)**: 마당이 없거나 작음. 관리자가 있으며 목조 건물이라 방음이 잘 안 됨.
+    3.  **condo (콘도)**: 한국의 아파트 개념. 개인 소유 가능.
+    4.  **apartment (아파트)**: 개인 소유 불가능. 회사 소유로 임대(렌트)만 가능.
+    5.  **studio (스튜디오)**: 원룸.
+
+* **북미권 결혼식 문화**
+    1.  **reception**: 피로연
+    2.  **wedding registry**: 받고 싶은 선물 목록을 미리 작성해 하객들에게 알려주는 것.
+    3.  **Jordan Almonds**: 결혼식 답례품으로 주는 아몬드 초콜릿. 달콤쌉싸름한 인생을 함께 나누자는 의미.
+    4.  **RSVP**: 초대장에 참석 여부를 표시해서 회신해야 함 (불참 시에도).
+
+* **기타 단어**
+    * **DLS**: 네트워크 연결 속도를 높여주는 장치
+    * **Virgin Mary**: 성모 마리아
+    * **goody-goody**: 착한 체하는 사람, 모범생
+    * **crust**: 피자의 빵 부분
