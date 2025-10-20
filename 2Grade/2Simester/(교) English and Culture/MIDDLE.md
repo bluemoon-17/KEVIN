@@ -421,3 +421,58 @@
     * **Virgin Mary**: 성모 마리아
     * **goody-goody**: 착한 체하는 사람, 모범생
     * **crust**: 피자의 빵 부분
+
+
+# 7주차 - 노래 Shivers - Ed Sheeran
+
+1.  **Fill up the engine we can drive real far.**
+    -> 기름을 가득 넣어 멀리까지 드라이브 하자
+2.  **I wanna stay up all day and all night**
+    -> 하루 종일 밤새도록 깨어있고 싶어
+3.  **And when you're close up give me the shivers.**
+    -> 그리고 당신이 가까히 오면 나에게 전율을 주세요.
+4.  **Oh baby you wanna dance 'tll the sunlight cracks**
+    -> 해가 뜰 때 까지 춤 추고 싶을거야
+5.  **On the backseat in the moonlit dark**
+    -> 달빛이 비추는 어둠속 차 뒷자리에서
+6.  **you could tear me apart**
+    -> 너는 나를 무너뜨릴 수 있다.
+
+---
+
+## Activity
+
+### 2주차
+
+**Rory : And pay special attention to the grammar.**
+
+* **상황** : 로렐라이와 로리가 프렌치 페이퍼(불어 과제)를 두고 미셸에게 검토를 부탁하는 장면으로, 미셸은 귀찮아하면서도 결국 봐주기로 하는 대화다.
+* **해석** : 어차피 할거면 제대로 해요
+
+### 3주차
+
+**She loses her pot**
+
+* **상황** : 로렐라이는 딸 로리를 명문 사립학교 **칠튼(Chilton)**에 입학시키려 하지만 등록금과 입학금을 당장 내야 해서, 부모님(리처드와 에밀리)에게 경제적 도움을 청하러 온 상황이다.
+* **해석** : 로리가 칠튼에서의 자리를 잃게 돼요.
+
+### 4주차
+
+**You really understand boundaries.**
+
+* **상황** : 로리와 로렐라이는 식당에서 대화 중이고, 로렐라이는 로리에게 ‘새로 생긴 남자애’ 이야기를 캐묻지만, 로리는 사생활을 지키고 싶어 계속 회피하는 장면이다.
+* **해석** : 엄마는 진짜 사생활 존중이란걸 모르는 구나
+
+### 5주차
+
+**Makes perfect sense.**
+
+* **상황** : 로렐라이는 친구 수키(Sookie), 잭슨(Jackson), 미셸(Michel)과 함께 대화 중인데, 요리 얘기를 하며 잡담하다가 로리(딸)가 명문학교에 들어간 걸 자랑하고, 미셸이 전화가 왔다고 불평 섞인 태도로 전하러 오는 장면이다.
+* **해석** : 완전히 말이 되네요.
+
+### 6주차
+
+**I wish I could figure out a way to get Paris off my back.**
+
+* **상황** : 로리는 학교에서 자신을 괴롭히는 파리스(Paris) 때문에 스트레스를 받고 있고, 로렐라이는 딸을 위로하며 “너무 기죽지 말라”고 조언하는 장면이다.
+* **해석** : 파리스가 나한테서 좀 떨어졌으면 좋겠어
