@@ -43,7 +43,7 @@ Mets tickets - 야구 티켓(뉴욕 메츠)
 I wanted us to just have one thing in common(더그->엘사)
 - 한 가지 공통점만 있길 바랬다.
 
-he had a freakout i a store - 가게에서 흥분하다(엘사->더그)
+he had a freakout in a store - 가게에서 흥분하다(엘사->더그)
 
 exchanging small-talk - 잡담을 주고 받다(엘사->줄리아)
 
